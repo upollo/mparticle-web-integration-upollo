@@ -20,3 +20,8 @@ Questions? Give us a shout at <support@upollo.ai>
 
 1. Update the version in `package.json` and commit the change.
 2. run `./release.sh` from the `main` branch.
+
+## See also
+
+- https://github.com/mparticle-integrations/mparticle-javascript-integration-optimizely
+- https://docs.mparticle.com/integrations/optimizely/event/
